@@ -1,6 +1,6 @@
 /*impostazione grafica header principale
 */
-body{
+*{
     margin:0;
 }
 #htop{
@@ -33,4 +33,8 @@ header{
 }
 .zero{
     margin:0px;
+}
+
+p{
+    margin:20px 0px;
 }
