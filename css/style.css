@@ -23,16 +23,13 @@ header{
 /*Contenuto MAIN*/
 .container{
     padding:0px 10px;
-    color:grey;
+    
 }
 .azure{
     color:#77caef;
 }
-.black{
-    color:black;
-}
-.zero{
-    margin:0px;
+.grey{
+    color:grey;;
 }
 
 p{
