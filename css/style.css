@@ -1,6 +1,5 @@
-*{
-    box-sizing: border-box;
-}
+/*impostazione grafica header principale
+*/
 body{
     margin:0;
 }
@@ -12,7 +11,7 @@ body{
     position:fixed;
 }
 #logo{
-    width:50%;
-    height:80%;
-   
+    width:200px;
+    max-height:60px;
+    margin-top:60px;
 }
