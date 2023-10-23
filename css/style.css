@@ -41,3 +41,24 @@ p{
     padding-left:20px;
 }
 /*padding lista sito*/
+
+/*Formattazione tabella*/
+table{
+    margin:20px 0px;
+    width:100%;
+    border-spacing: 0;
+}
+
+.tableint{
+    color:white;
+    background-color: #77caef;
+    text-align: left;
+}
+
+.table-azure{
+    background-color:rgba(119, 201, 239, 0.5);
+}
+
+.third{
+    width:50%;
+}
