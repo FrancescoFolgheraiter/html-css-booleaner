@@ -36,6 +36,10 @@ p{
     margin:20px 0px;
 }
 
+.highlighted{
+    background:yellow;
+}
+
 /*padding lista sito*/
 .zero{
     padding-left:20px;
